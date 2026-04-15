@@ -10,7 +10,7 @@ export default function Navbar() {
       {/* Logo */}
       <Link href="/" aria-label="Go to home page" className="flex h-full items-center gap-3">
         <Image
-          src="/IgnitionSparkLogo.png"
+          src="/Logs.png"
           alt="IgnitionSpark"
           width={220}
           height={88}
